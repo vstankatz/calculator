@@ -1,4 +1,6 @@
 
+
+//This java script works but doesn't follow the ideal formatting like proper.js
   var add = function(number1, number2) {
     return number1 + number2;
   };
